@@ -15,8 +15,8 @@ programa {
     escreva ("Digite sua idade: ")
     leia (idade)
 
-    //Calcula quantos anos faltam para atingir a maioridade anos =
-     MAIORIDADE - idade
+    //Calcula quantos anos faltam para atingir a maioridade 
+    anos = MAIORIDADE - idade
 
     se (anos > 0)
     {
